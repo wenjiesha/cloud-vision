@@ -40,8 +40,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String CLOUD_VISION_API_KEY = "YOUR_API_KEY";
+    private static final String CLOUD_VISION_API_KEY = "AIzaSyAFRGj1BivgNz7txlgm7IG3mFng7KtFJKY";
     public static final String FILE_NAME = "temp.jpg";
+    private static final String APPLICATION_NAME = "MenuPicture";
 
     private static final String TAG = MainActivity.class.getSimpleName();
     private static final int GALLERY_IMAGE_REQUEST = 1;
